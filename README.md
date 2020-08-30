@@ -1,7 +1,7 @@
 ## 영화정보제공 및 추천알고리즘을 통한 영화추천 Web 개발 
 - 멤버 : 윤준기, 김범철
 - 제작 기간 : Sep 2019 ~ Dec 2019
-
+- 내가맡은 파트 : FrontEnd , Django ( Admin , Auth , Views , Model , Forms , Urls , Profile , Comment , Post , Board ) 
 ## Used
 - 사용 : Python, Django
 - 이미지 정보 : BingImageSearch API
